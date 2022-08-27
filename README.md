@@ -17,4 +17,4 @@ The following datasets were used for analysis
 2. bon.movie_gross.csv from Box Office Mojo.
 
 ## DATA DESCRIPTION.
-The 
+The data 
