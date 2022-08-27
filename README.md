@@ -12,3 +12,9 @@ Microsoft is more than ready to engage in this industry by putting up a movie st
 provide proper recommendations on the project.
 
 ## DATA COLLECTION.
+The following datasets were used for analysis
+1. im.db from IMDB
+2. bon.movie_gross.csv from Box Office Mojo.
+
+## DATA DESCRIPTION.
+The 
