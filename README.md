@@ -17,4 +17,9 @@ The following datasets were used for analysis
 2. bon.movie_gross.csv from Box Office Mojo.
 
 ## DATA DESCRIPTION.
-The data 
+The datasets are both csv files that can be loaded in excel formats.
+Key columns to be paid attention are the Domestic gross, Foreign gross and Voters popularity.
+
+## KEY VISUALISATIONS.
+
+## CONCLUSIONS AND RECOMMENDATIONS.
